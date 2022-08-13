@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DiceGame</string>
+    <string-array name="DiceRoll">
+        <item>"Dice6</item>
+        <item>"Dice10</item>
+        <item>"Dice12</item>
+        <item>"Dice20</item>
+    </string-array>
+
+</resources>
